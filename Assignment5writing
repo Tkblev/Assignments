@@ -1,0 +1,10 @@
+#3 code that would mimic CIPRES phylogenetic tree from STDOUT file from CIPRES: 
+
+iqtree2 -nt 12 -bnni -s infile.txt -st AA --sprrad 6 -B 1000 --prefix output
+
+
+#4 Using a JTT+R3 model of subsitution, the most closely related taxa to the Flying Fox clade Pteropus, represented here by Pteropus lylei, whould be the Common blossom bat Syconycteris australis
+
+#5 Having phylogenetic informatoin on certain clades moving forward may preserve relationships among groups that are threatened or endangered due to anthropogenic habitat destruction and climate change. Bats in particular are heavily threatened due to habitat destruction from development and the lumber industry. There is also increased spread of disease from human activity coupled with climate change. White-nose syndrome from the Pseudogymnoascus destructans fungas is a threat to bats in North America that can kill hibernating bats. If we are unable to mitigate some of these threats, having molecular and phylogenetic information on the taxa that are lost may be valuabe on preventing/mitigating similar issues going forward.
+
+#NOTES: the Newick version of the phylogenetic tree was also under tree in the output.iqtree file. 
