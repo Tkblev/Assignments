@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 echo "this script can count the number of sequences in a fasta file"
 greeting="Hiya" 
 myname="Torrey Blevins" 
