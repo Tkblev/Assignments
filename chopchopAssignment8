@@ -1,0 +1,12 @@
+chop chop
+
+1) Zebra Fish (Danio rerio)
+
+2) lman2 (lectin,manose binding2) found in zebrafish swim bladder--> homolog to surfactant proteins in humans lungs
+
+3)target sequence: GAGGGTGAAGCCATAGAGCAGGG Genomic location: chr14:26127178
+
+4)Left Primer coordinates/sequence: chr14:26127284-26127306	/ CTAGTTAGGCTGCTCACTCGGT
+Right primer coordinates/sequence: chr14:26127022-26127044 / GCTACTCACCCTGATATGGCTT
+
+5)As mentioned above, lman2 is a gene in Zebrafish that is homologous to the surfactant proteins (SPs) in humans that makes up surfactant in the epithelial cells of the lungs and aid in capturing potential pathogens, as well as reducing tension at the layer between air and liquid. In the Zebrafish, lman2 is expressed in the swimbladder. Liu (2011) highlighted the combination of swimbladder surfactant proteins and lipids helps to repair the swimbladder if it is damaged, and overall maintenance of the swimbladder. If this gene were to be cut out using crispr, I'd imagine the surfactant wouldn't have a different structure or would be missing entirely. This could leave the organism susceptable to more easily damage swimbladders.
