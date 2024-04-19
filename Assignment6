@@ -1,0 +1,69 @@
+1.) How many splice variants does the human BRCA2 gene have?
+	15
+
+2.) How many exons are in the longest splice variant(s) of BRCA2?
+	~27
+
+3.) How many introns are in the longest splice variant(s) of BRCA2?
+	~58
+
+4.) What chromosome is this gene on?
+	Chr 13   with extra ID--> : 32.315.086-32.400.268
+
+5.) What are the gene synonyms of BRCA2?
+	BRCC2, FACD, FAD, FAD1, FANCD, FANCD1, XRCC11
+
+6.) How many orthologs of human BRCA2 are found in the African ostrich?
+	1: BRCA2  (ENSSCUG00000014528)
+
+7.) In the human hemoglobin transcript ENST00000330597.5 HBG1-201, what is the sequence of the second exon?
+	the reference sequence? Its NM000559.3
+
+8.) What is the length of the first intron of this hemoglobin transcript?
+	587 bp
+
+9.) How many pseudogenes are in the narwal genome annotation (NGI_Narwhal_1, INSDC Assembly GCA_005190385.2)?
+	723
+
+
+Using Genomicus web-code version 2021-08-15 and database version 109.01, answer the following questions:
+
+10.) What two genes flank BRCA2 in the human genome?
+	ZAR1L and N4BP2L1
+11.) What genes flank the sonic hedgehog gene(s) in the betta fish?
+	rnf32 and rbm33a
+
+12.) How many copies of shh are in the betta fish?
+	1
+
+13.) How many copies of shh are in Atlantic salmon?
+	1
+
+
+Using NCBI answer the following questions:
+
+14.) How many genome assemblies are available for Bos taurus on NCBI?
+	26
+
+15.) How many of the above assemblies are assembled into chromosomes?
+	11
+
+
+16.) How many chromosomes does Bos taurus have excluding sex chromosomes?
+	29
+
+17.) Which cow chromosome is the longest?
+	chr1
+
+18.) How many microRNAs are annotated on chromosome the assembly:  Bos taurus ARS-UCD2.0?
+	on chromosome 1? I counted 13 on the GDV
+
+19.) If I am interested in learning more about the gene associate with the transcript: NM_001104822, what is a good publication to read on PubMed?
+	Gene evolution and gene expression after whole genome dubplication in fish: the PhyloFish database Pasquier et al. (2016)
+
+20.) What is the translated coding sequence of NM_001104822
+	MDLLAKASVLLLLLLSLSNAQTDNMEEAENGSSKEEIDESELED
+                     VSSIIFRMNNNSMEELLEGDLVLPKTRNAMKCFGAPDSCRWPKSSNGIVKVPYVVSDN
+                     YESDEKETIRNAMKEFAEKTCIHFVPRNNERAYLSLEPRFGCKSMMGYVGDKQVVVLQ
+                     RFGCIKHAVIQHELLHALGFYHEHTRSDRDQHVKINWENIIKDFTHNFDKNDTDNLGT
+                     PYDYGSIMHYGRTAFGKDRKETITPIPNPKAAIGQTERMSDIDILRVNKLYKC
