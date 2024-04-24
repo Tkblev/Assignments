@@ -2,10 +2,10 @@
 	15
 
 2.) How many exons are in the longest splice variant(s) of BRCA2?
-	~27
+	~27 (you said it was right but in class you said it was incorrect so I'm updating it to 29)
 
 3.) How many introns are in the longest splice variant(s) of BRCA2?
-	~58
+	~26
 
 4.) What chromosome is this gene on?
 	Chr 13   with extra ID--> : 32.315.086-32.400.268
@@ -17,10 +17,13 @@
 	1: BRCA2  (ENSSCUG00000014528)
 
 7.) In the human hemoglobin transcript ENST00000330597.5 HBG1-201, what is the sequence of the second exon?
-	the reference sequence? Its NM000559.3
+	GCTCCTGGTTGTCTACCCATGGACCCAGAGGTTCTTTGACAGCTTTGGCAACCTGTCCTC
+TGCCTCTGCCATCATGGGCAACCCCAAAGTCAAGGCACATGGCAAGAAGGTGCTGACTTC
+CTTGGGAGATGCCACAAAGCACCTGGATGATCTCAAGGGCACCTTTGCCCAGCTGAGTGA
+ACTGCACTGTGACAAGCTGCATGTGGATCCTGAGAACTTCAAG
 
 8.) What is the length of the first intron of this hemoglobin transcript?
-	587 bp
+	122 bp
 
 9.) How many pseudogenes are in the narwal genome annotation (NGI_Narwhal_1, INSDC Assembly GCA_005190385.2)?
 	723
@@ -37,7 +40,7 @@ Using Genomicus web-code version 2021-08-15 and database version 109.01, answer 
 	1
 
 13.) How many copies of shh are in Atlantic salmon?
-	1
+	4 
 
 
 Using NCBI answer the following questions:
@@ -56,7 +59,7 @@ Using NCBI answer the following questions:
 	chr1
 
 18.) How many microRNAs are annotated on chromosome the assembly:  Bos taurus ARS-UCD2.0?
-	on chromosome 1? I counted 13 on the GDV
+	    1115
 
 19.) If I am interested in learning more about the gene associate with the transcript: NM_001104822, what is a good publication to read on PubMed?
 	Gene evolution and gene expression after whole genome dubplication in fish: the PhyloFish database Pasquier et al. (2016)
