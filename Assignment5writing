@@ -2,9 +2,13 @@
 
 iqtree2 -nt 12 -bnni -s infile.txt -st AA --sprrad 6 -B 1000 --prefix output
 
+muscle -in infile.fasta -seqtype auto -maxiters 16 -maxmb 30000000 -log logfile.txt -weight1 clustalw -cluster1 upgmb -sueff 0.1 -root1 pseudo -maxtrees 1 -weight2 clustalw -cluster2 upgmb -sueff 0.1 -root2 pseudo -objscore sp -noanchors -out output.fasta 
 
-#4 Using a JTT+R3 model of subsitution, the most closely related taxa to the Flying Fox clade Pteropus, represented here by Pteropus lylei, whould be the Common blossom bat Syconycteris australis
+#4 Using a JTT+R3 model of subsitution, the most closely related taxa to the Flying Fox clade Pteropus, represented here by Pteropus lylei, whould be the Common blossom bat Syconycteris australis_ac2 which is sister to Dobsonia_viridis_ace2, Cynopterus_sphinx_ace2, Epomophorus_wahlbergi_ace2, Rousettus_leschenaultii_ace2.
 
 #5 Having phylogenetic informatoin on certain clades moving forward may preserve relationships among groups that are threatened or endangered due to anthropogenic habitat destruction and climate change. Bats in particular are heavily threatened due to habitat destruction from development and the lumber industry. There is also increased spread of disease from human activity coupled with climate change. White-nose syndrome from the Pseudogymnoascus destructans fungas is a threat to bats in North America that can kill hibernating bats. If we are unable to mitigate some of these threats, having molecular and phylogenetic information on the taxa that are lost may be valuabe on preventing/mitigating similar issues going forward.
+
+As for the gene, ACE2 is a known SARS-CoV receptor, and since COVID-19 was thought to originate from bats, there may be relavent information about how the receptor of covid changes throughout the bat phylogeny that may provide information on how it could have transitioned to humans (or to an intermediate species)
+
 
 #NOTES: the Newick version of the phylogenetic tree was also under tree in the output.iqtree file. 
